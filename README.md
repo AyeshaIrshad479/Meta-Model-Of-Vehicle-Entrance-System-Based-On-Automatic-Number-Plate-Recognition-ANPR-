@@ -1,0 +1,1 @@
+# Meta-Model-Of-Vehicle-Entrance-System-Based-On-Automatic-Number-Plate-Recognition-ANPR-
